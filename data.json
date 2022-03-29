@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1479,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 48,
+        "name": "Inde"
+      },
+      "title": "title 1",
+      "price": 1410,
+      "duration": 15,
+      "highlight": true,
+      "tag": "combined"
+    },
+    {
+      "id": 15318,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 80,
+        "name": "Sri Lanka"
+      },
+      "title": "title 2",
+      "price": 1070,
+      "duration": 12,
+      "highlight": false,
+      "tag": "group"
+    },
+    {
+      "id": 11501,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 10,
+        "name": "Italie"
+      },
+      "title": "title 3",
+      "price": 610,
+      "duration": 8,
+      "highlight": false
+    },
+    {
+      "id": 13885,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 46,
+        "name": "Islande"
+      },
+      "title": "title 4",
+      "price": 1030,
+      "duration": 8,
+      "highlight": true
+    },
+    {
+      "id": 9743,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 90,
+        "name": "Tanzanie"
+      },
+      "title": "title 5",
+      "price": 1840,
+      "duration": 7,
+      "highlight": false,
+      "tag": "group"
+    },
+    {
+      "id": 13811,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 46,
+        "name": "Islande"
+      },
+      "title": "title 6",
+      "price": 570,
+      "duration": 5,
+      "highlight": false,
+      "tag": "combined"
+    },
+    {
+      "id": 2577,
+      "picture": "https://dummyimage.com/1000x625/000/fff",
+      "destination": {
+        "id": 46,
+        "name": "Islande"
+      },
+      "title": "title 7",
+      "price": 2200,
+      "duration": 15,
+      "highlight": false
+    }
+  ]
